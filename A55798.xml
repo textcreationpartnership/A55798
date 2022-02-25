@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The witch of the woodlands, or, The coblers new translation written by L.P.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55798</idno>
+            <idno type="STC">Wing P3391</idno>
+            <idno type="STC">ESTC R13421</idno>
+            <idno type="EEBO-CITATION">12594034</idno>
+            <idno type="OCLC">ocm 12594034</idno>
+            <idno type="VID">64003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 329:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The witch of the woodlands, or, The coblers new translation written by L.P.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>22, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Stafford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chapbooks, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64003:1" rendition="simple:additions"/>
+            <p>THE <hi>Witch of the Woodlands:</hi> OR, The Coblers New Tranſlation; Written by <hi>L. P.</hi>
+            </p>
+            <figure>
+               <lg>
+                  <l>Here Robin the Cobler for his former evils,</l>
+                  <l>Was puniſht worſt then Fauſtus was with de<g ref="char:EOLhyphen"/>vils.</l>
+               </lg>
+               <figDesc>man holding tools, surrounded by owl, crow or raven (?), three women on a horse, cat, and woman with stick</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Stafford,</hi> dwelling at the S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gne of the <hi>George</hi> at <hi>Fleet-bridge.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64003:2"/>
+            <pb n="3" facs="tcp:64003:2"/>
+            <head>THE Witch of the Woodlands: OR, The Coblers New Tranſlation.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>IN the Wilde of <hi>Kent,</hi> not far from <hi>Rumney Marſh</hi> there dwelt a merry-conceited Cob<g ref="char:EOLhyphen"/>ler, commonly called <hi>Robin the Devill,</hi> which afterwards came to be called, <hi>The Witch of the Woodlands.</hi> This Cobler alwayes had a ſpe<g ref="char:EOLhyphen"/>ciall care to pleaſe his Cuſtomers, but chiefly he would be ſure that if any pretty Wench brought him a job to doe, he would go through ſtitch with her worke firſt of all; He could jeſt and be merry in companie; he could ſing in his ſhop like a Nightingale; he could cut a ca<g ref="char:EOLhyphen"/>per with <hi>Jack Pudding,</hi> and was not much in<g ref="char:EOLhyphen"/>feriour to luſty <hi>Laurence,</hi> which got eightéen wenches with childe all in one yeare, for it was well knowne that he got thrée wenches with childe all in one night; but as the Proverb goes, <hi>The Pitcher that goes often to the water, may at laſt come broken home: And the ſweeteſt meat requires the ſowreſt ſawce:</hi> So it fared with <hi>Robin</hi> the Cobler, for one of his wenches
+<pb n="4" facs="tcp:64003:3"/>
+being ſuddenly brought to bed with a male childe, the Mother of the Damoſell ſerved <hi>Ro<g ref="char:EOLhyphen"/>bin</hi> the Cobler with a Warrant, and made him to marry her daughter out of hand; then was the poore Cobler fallen into a pecke of troubles, and knew not how to behave himſelfe: For though he had béen Factor for <hi>Mars,</hi> yet he never was made a <hi>Vulcan</hi> before that time; And now muſt he provide for cloutes and whitles, fire and candle, ſope and ſtarch, white bread and milke, a nurſe and a cradle, with many other matters which belongs to married men to looke after; But as it is in the Proverbe, <hi>That one ill chance followes another,</hi> So was it with him for the other two Damoſels which he had for<g ref="char:EOLhyphen"/>merly made uſe of, now began to make uſe of him, and brought him two children more to kéep, which was done both on one day; which when <hi>Robin the Cobler</hi> did behold, he fell into ſuch a fearfull quandarie, ſo that the people that beheld him, ſaid that he lookt ſo pittifully upon the matter, that they thought in their mindes that he would never be good againe.</p>
+               <p>Then began <hi>Robin</hi> with dolefull words, with wéeping eyes, and with wringing hands to be<g ref="char:EOLhyphen"/>waile his former follies, ſaying, O ſilly rogue that I am, was it not enough for me to ſing, dance, drinke Ale, breake Cakes, talke and be merry amongſt Maids? but that I muſt like a Towne-Bull, over-run all that ſtand in my
+<pb n="5" facs="tcp:64003:3"/>
+way, and ſo in the end he pounded for my break<g ref="char:EOLhyphen"/>ing looſe; now am I in a worſe caſe then <hi>Por<g ref="char:EOLhyphen"/>rage John, Marret</hi> the Lawyer, or the Cow-kéeper of the <hi>Pinder of Wakefield;</hi> I would that my Father had never begot me, then ſhould I never have begotten ſo many wenches with childe; or elſe I would that ſome honeſt Sow-gelder had done his office upon me to
+<figure>
+                     <lg>
+                        <l>Here Robin for his former Letchery,</l>
+                        <l>Doth ſuffer in his Members grievouſly.</l>
+                     </lg>
+                     <figDesc>man with knife preparing to use it on Robin the Cobbler's privates; bird of prey in background</figDesc>
+                  </figure>
+kéep me honeſt, then had I ſcap't the miſery now I am ſure to endure: Now whileſt <hi>Robin</hi>
+                  <pb n="6" facs="tcp:64003:4"/>
+the Cobler was making this ſorrowfull la<g ref="char:EOLhyphen"/>mentation, a friend of his whiſpered him in the eare, and gave him counſell to be gone from them all, ſaying, <hi>That one paire of heeles is worth two paire of hands;</hi> whoſe counſell <hi>Ro<g ref="char:EOLhyphen"/>bin</hi> tooke, as you ſhall heare in the following Chapter.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>
+                  <hi>RObin</hi> the Cobler having hearkned to his friends advice, made no more to doe of the matter, but truſt up his Tools to be gone, reſolving to come for <hi>London,</hi> and there to worke Iourney-worke till ſuch time that his children were come to be men, and able to worke for themſelves; but as he paſſed along the Countrey, which is called the Wilde of <hi>Kent,</hi> he loſt his way in the <hi>Woodlands,</hi> when night was almoſt come upon him, and finding no path to guide him, he wandred up and downe till it was almoſt ten of the clocke in a pittifull cold froſty darke Winters night: but at the laſt he heard a Cocke crow, whereby he under<g ref="char:EOLhyphen"/>ſtood that there was ſome dwelling houſe near at hand, and ſo being ſomewhat comforted to heare the crowing of the Cocke, he made his ap<g ref="char:EOLhyphen"/>proach to the houſe, and knocking at doore, there came forth an old woman with a diſh clout
+<pb facs="tcp:64003:4"/>
+bound about her head, and a ſtaffe in her hand, and demanded of <hi>Robin</hi> to know what hée knockt for; O Mother, quoth he, I am a poore diſtreſſed Traveller which hath loſt my way, and willing would I be to give ſix pence for a Bed this night to lay my weary bones on: Marry, quoth ſhe, all the beds that I have are not worth ſix pence, for I have no more then what I lye on my ſelfe, but if thou wilt take paines to doe as I doe, thou and I will lye to<g ref="char:EOLhyphen"/>gether for once, where we will hug one another as the Devill hugg'd the Witch: <hi>Robin</hi> behol<g ref="char:EOLhyphen"/>ding and taking notice of her perſon all the body over, ſaw that ſhe was long-nos'd, bleare-ey'd, crooked-neckt, wry-mouth'd, crumy-ſhoulder'd, béetle-brow'd, thin-belly'd, bow-legg'd, and ſplay-footed: He began to frame an excuſe, ſaying, Good Mother, I pray you to conſider this, that I am a Batchelour, and never came in bed with any woman ſince I was borne of my Mother; Wilt thou ſweare that that which thou ſpeakeſt is true: I will, quoth <hi>Robin,</hi> whereupon he heard a hollow voice, as if it came out of the top of a Chim<g ref="char:EOLhyphen"/>ney, crying thrée ſeverall times, <hi>Robin the Cobler is mine, Robin the Cobler is mine; Robin the Cobler is mine;</hi> Theſe words when he heard, he thought that ſome ſhe-devill was come to fetch him away alive, and pre<g ref="char:EOLhyphen"/>ſently he fell into ſuch a trembling condition,
+<pb n="8" facs="tcp:64003:5"/>
+that his hands ſhooke, his pulſes beat, his heart panted, his head aked, his noſe dropt, his belly rumbled, and a certain parcell of melting teares dropt out of the lower ends of his bréeches, and ſo falling downe upon his knées to the old wo<g ref="char:EOLhyphen"/>man, deſired her to let him have a lodging, how ſhe would, or where ſhe would; then the old wo<g ref="char:EOLhyphen"/>man tooke him in, and with a remnant of wa<g ref="char:EOLhyphen"/>ter which ſhe had kept a long time in a Cham<g ref="char:EOLhyphen"/>ber-pot for that purpoſe, ſhe waſht him from the crowne of the head to the ſole of the feet, and made him as white as if he had waſht him in puppy-dog-water, and ſo they went lovingly to bed together; what followed after ſhall be rela<g ref="char:EOLhyphen"/>ted in the enſuing diſcourſe.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>AFter that <hi>Robin the Cobler</hi> had taken his firſt ſléep, he awaked, and turning himſelfe on the other ſide, he ſent for his Bed-fellow, but ſhe was not there; and having gotten all the Bed-room to himſelfe, he began to wonder with himſelfe about the paſſages which had hapned to him the night before, and there<g ref="char:EOLhyphen"/>withall he bethought himſelfe how he might uſe a meanes to get away before the old Witch his new-made Landlady came backe againe to him, for he ſuppoſed that ſhe had gone forth to
+<pb n="9" facs="tcp:64003:5"/>
+fetch companie to cut his throat; but whilſt he was thus thinking, in came the old woman with thrée more of her Diſciples, with every one of them a light Torch in her hand, cry<g ref="char:EOLhyphen"/>ing out all at once, that they would be reven<g ref="char:EOLhyphen"/>ged on <hi>Robin the Cobler</hi> for all his Whore-hunting tricks: Theſe foure female Witches could transforme themſelves into any humane ſhape at their owne pleaſure; ſo ſhe that <hi>Ro<g ref="char:EOLhyphen"/>bin</hi> tooke to be his mother-in-law, brought in an ugly Beare at her héeles, another brought a ravening Wolfe, and the third brought a ſharp long broad bladed knife; poore <hi>Robin,</hi> al<g ref="char:EOLhyphen"/>though the weather was cold, and the Bed-clothes very thin, yet he was hot enough: for being in a ſtinking feare, he covered himſelfe over head and eares, all ſave one hole that was in the cover-lid, which he now and then cloſely péept out at, but burſt not to ſtir for his life; but now begins the game, The grand Witch of the Companie, otherwiſe called the Land<g ref="char:EOLhyphen"/>lady of the houſe, put her hand under the bed, and pulled out a Taber and a Pipe, and plaid ſuch a fit, that it laſted till it was within two houres of day; all this while the other three Witches danc'd the <hi>Iriſh Hay</hi> with their héeles upwards, meane time poore <hi>Robin the Cobler</hi> lay a bed and bepiſt himſelfe, till at laſt two quarts run through the bed upon the ground, whether it were done for joy, or for feare, Ile
+<pb n="10" facs="tcp:64003:6"/>
+leave that to other ſuch as himſelfe to conſider of; but when the Muſicke was ended, the Beare began to rore, and the Woolfe began to howle for food, then ſaid the old Witch, I have in the houſe the braveſt breakfaſt for your two Familiars that they have feaſted on ever ſince they devoured the two damnable Whores which were bewitcht as they rode in a Coach towards a Bawdy-houſe in <hi>London;</hi> and now ſince that Witches have power of none but Swearers and Curſers, Théeves and diſ<g ref="char:EOLhyphen"/>ſemblers, Pimps, Bawds and panders, whores and Whore-hunters, and ſuch like manner of people, let us make the beſt uſe of our time that we may: And now you ſhall ſée what a gallant prize I have lighted upon by chance: There was a merry diſpoſed Cobler, which dwelling not far from the Towne of <hi>Rumney,</hi> who was every day uſed to drinke, ſwagger, ſwear and dominéere, and oftentimes he would ſay that he car'd not a turd for all the Witches in the World, and that he had a trick to de<g ref="char:EOLhyphen"/>fend himſelfe from the power of Witches; which was by waſhing his hands, and ſaying his Prayers every morning before hée went forth of the doores; but although he ſerved God in the morning, he ſerved the Devill ere night; for there was hardly one day in the weeke, but he would goe a whoring, and often<g ref="char:EOLhyphen"/>times he would intice honeſt Wenches to ſinne
+<pb n="11" facs="tcp:64003:6"/>
+by his diſſembling ſpéeches, and his falſe for<g ref="char:EOLhyphen"/>ſwearing himſelfe, making them believe, that if he got them with child, he would marry with them; amongſt the reſt, he got three Widdowes daughters with childe, all in one night, making every one of them believe, and ſwearing that he would marry with them the morrow after, which he never did intend, but at laſt Good-wife <hi>Webb</hi> the Widdow forc'd him to marry her daughter; which being done, the other two Wenches which he had gotten with childe, be<g ref="char:EOLhyphen"/>ing delivered, brought him their two children to kéep, ſo as he got them all thrée with childe in one night, ſo they brought him three children to kéep in one day; theſe things he thought that Witches had not knowne, but my Imps ſpent not their time in vaine, for I every night ſent forth my familiar Imp <hi>Madge</hi> of <hi>Wake<g ref="char:EOLhyphen"/>field,</hi> in the likeneſſe of a blacke Cat, which told me of every thing that <hi>Robin the Cobler</hi> did doe; but the archeſt piece of Roguerie that ever he did in all his life, was done to a Wid<g ref="char:EOLhyphen"/>dow woman in the Ille of <hi>Thanet,</hi> for he pro<g ref="char:EOLhyphen"/>mis'd her marriage, and made her ſell her Widdowes Eſtate for foure and twenty pound, and told her, that if ſhe would lend him the money to buy him Leather, that he would be married to her on Thursday next, and wiſht, that if he did not doe according to his promiſe, that he might be torne in pieces with Woolves
+<pb n="12" facs="tcp:64003:7"/>
+and Beares, but he never came backe to the Widdow againe; And laſt of all he run away from his Wife and thée Children, and now he lies under that Coverlid: When the other thrée Witches had heard this diſcoverie, they all leapt for joy, and the thrée familiar ſpirits which went in the ſhape of a Wolfe, a Beare, and a blacke Cat, were ready to teare the Wit<g ref="char:EOLhyphen"/>ches to pieces for victuals, they were ſo hun<g ref="char:EOLhyphen"/>gry; then ſaid one of them to the reſt, ſéeing hee wiſht that hee might be devoured by Wolves and Beares, he ſhall have his wiſh, and he ſhall preſently be cut in quarters, and the Wolfe ſhall have his Heart, Liver, and Lungs for his breakfaſt, the Beare ſhall have his Paunch and Bowels, and the Cat ſhall have his privy members to gnaw upon: Nay, quoth the older Witch, it ſhall not be ſo, for he ſhall not have ſo pleaſant a death as you ſpeake of, but we will have a little more ſport with him before he dyes: That very word procured ſome comfort to <hi>Robins</hi> languiſhing ſpirits; for he had rather chuſe to lead a ſor<g ref="char:EOLhyphen"/>rowfull life, then to dye a ſudden death: And now to be briefe in the matter, they pul'd the Bed-clothes from off him, and made him ſtand up ſtarke naked as ever he was borne before them, the Wolfe bit him by the throat, the Beare bit him by the bum, and the Cat bit him by the members, and every one drew bloud of
+<pb n="13" facs="tcp:64003:7"/>
+him, but did him no great harme at that time; Now, ſaid the old Witch, we have markt you for our owne, and therewithall ſhe paſt ſentence upon him, that he ſhould have three dayes pu<g ref="char:EOLhyphen"/>niſhment for his former offences, and after<g ref="char:EOLhyphen"/>wards he was to be eaten up alive; the firſt of the thrée dayes he was to be transformed into the ſhape of a Fox, and to be chaſed with Dogs from morning till night.</p>
+               <figure>
+                  <lg>
+                     <l>Here Robin the Cobler like a Fox doth run,</l>
+                     <l>Before the Dogs, whoſe rage he cannot ſhun.</l>
+                  </lg>
+                  <figDesc>fox pursued by three dogs</figDesc>
+               </figure>
+               <p>The ſecond day he was to be a riding Nag, and to carry the Witch whither ſhe pleaſed: The third day he was to be an Owle, and to
+<pb n="14" facs="tcp:64003:8"/>
+fly from one place to another all the day long; ſo having agréed upon the matter, as ſoone as the day appeared, <hi>Robin the Cobler</hi> was to be a fox, and ſo out of the doores they ſet him a running, and having transform'd themſelves into the ſhape of dogs, followed cloſe at his héeles, and every time they overtooke him, they bit him by the buttockes, and nipt him moſt devilliſhly, for they had no mercy in their téeth.</p>
+               <p>The next day they transform'd him into the ſhape of a Horſe, and ſo the Witches got upon his backe, thrée of them at a time, and rid him over hils and mountaines, through Rivers and Ponds, through all ſorts of waters thicke and thin; and worſt of all, they rid him through ſo many buſhes, brambles, and briars, til they tore the very skin from the fleſh of him; ſo that the Whoremaſters bloud of his run from him in many places; and yet were not his ſorrowes at an end, nor no man knowes when they will be.</p>
+               <p>The third day they made an Owle of him, who flying up and down from Trée to Trée at noon time of the day, crying, whu, whu, whu, the birds came thick and thréefold about him, won<g ref="char:EOLhyphen"/>dring moſt ſtrangely to ſée an Owle abroad by day-light; wherefore to fulfill the old Proverbe, they all fell upon him like Pyes upon an owle: And to be briefe, they pluckt his feathers, broke his wings, and pickt out one of his eyes: This being done, the grand Witch conſulting with
+<pb n="15" facs="tcp:64003:8"/>
+the reſt of the Witches, ſaying, That <hi>Robin the Cobler</hi> had done enough of any conſcience for his wenching tricks, and ſo they turn'd him in<g ref="char:EOLhyphen"/>to the ſhape of a Swan:</p>
+               <figure>
+                  <lg>
+                     <l>Here Robin by the vertue of a Swan,</l>
+                     <l>Hath broke the Witches charmes, and is a man.</l>
+                  </lg>
+                  <figDesc>Robin the Cobbler astride a swan</figDesc>
+               </figure>
+               <p>And laſt of all they withdrew their Inchan<g ref="char:EOLhyphen"/>ting ſpels, and ſo <hi>Robin</hi> the pitifull Cobler be<g ref="char:EOLhyphen"/>came a man againe; but before he departed, they made him to knéele downe, and kiſſe every one of their fleſhy parts, and therewithall they par<g ref="char:EOLhyphen"/>ted houſhold.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="16" facs="tcp:64003:9"/>
+               <head>CHAP. IV. How Robin the Cobler having got looſe from the Witches, became a new man, and of ma<g ref="char:EOLhyphen"/>ny notable exploits which he did, you ſhall pleaſantly heare.</head>
+               <p>NOw when <hi>Robin</hi> the Cobler had broken the ſpels of witchcraft, his eye-ſight, his hearing, his ſpéech, his ſenſes, and his know<g ref="char:EOLhyphen"/>ledge, was all reſtored unto him againe, but yet he lookt of a pitifull complexion, juſt as a man may ſay, like one of <hi>Pharaoh's</hi> leane kine; his viſage was pale and ghaſtly, his eyes ſeemed as if they were ſunke into his head, his noſe was like the noſe of a ſcoulding Ale-wife, long and ſharp, and his tongue did gaggle, as if it had béen made of the Devils bollock leather, his bel<g ref="char:EOLhyphen"/>ly and his backe were ſo clung together, that he was ſcarce able to ſhit for bones.</p>
+               <p>Nor had he any kind of Habit to put on that was worth the throwing to the dunghill, only an old lowſie ſmocke, and a paire of ſlip-ſhooes, which one of the Witches had given him out of her méere pittifull charity; but yet he knew himſelfe to be in a far more happier taking then he was in before, when he was riden with there ſhe-devils at one time.</p>
+               <p>Then began <hi>Robin</hi> to ruminate, and to think what courſe he were beſt to take, and which way
+<pb n="17" facs="tcp:64003:9"/>
+was beſt for him to ſtéere his helme, and at laſt he reſolved to take his journey once more for the famous City of <hi>London,</hi> and to try if for<g ref="char:EOLhyphen"/>tune would afford him any better lucke then he had before; but he vow'd that he would keep along on the Road, and never goe through the <hi>Woodlands</hi> any more, for feare leſt the Witches ſhould méet with him again. Now as he paſſed along on the way; in every Towne and Village where he came, the boyes and the Children would run away from him, thinking that he had been mad, inſomuch that there was not one idle boy or girle to be ſéen in the ſtréets, but here comes one, the very bittereſt of al, poor <hi>Robin the Cobler,</hi> having gone along on his journey for the ſpace of almoſt two wofull days and nights, without bread or drinke, or money to buy, he began to bewaile his ſorrowfull life; in this mournfull manner: Oh pittifull Cobler that I am, for now I am in a worſe caſe then ever I was before. When I was a Horſe, the Witches did ride me, and put me to much pain, but yet they gave me ſomewhat to feed upon at night, though it were but branne and water, which I can approve to be pretty good fare for horſes when they are very hungry, and ſo they may have enough to fill their bellies withall. When I was a Fox, the Witches in the ſhapes of Dogs can after me, and hurried me up and downe, and at every ſtop and turne bit me by
+<pb facs="tcp:64003:10"/>
+the buttocks; but now am I hungerbitten, which is ten thouſand times worſe. When I was an owle, I was moſt ſhamefully abuſed, and wondred at by other birds; but now am I made a wondring ſtocke to all the folks that ſées me, inſomuch that no man, woman nor childe, will not nor dare not come anear me, long of the poverty of my fleſh, and diſguiſe of habit. Oh what a pitifull wretched caſe am I in now; An Ape, an Owle, a Fox, a Gooſe, a Horſe, an Oxe or an Aſſe is in a far better taking then I am in. O that I could with <hi>Diogenes</hi> Mare féed upon thiſtles, or like a Camelion, live by the aire. Now whilſt he was thus complaining, by chance came along a blind Beggar man, which had a whole Wallet full of fragments of Fiſh and meat, and mammacks of Bread and Chéeſe, which he had gotten amongſt his good benefactors. When <hi>Robin the Cobler</hi> had ſirt his eyes upon the blind mans Wallet of victuals, the very heart in his belly leapt for joy, hoping that then he ſhould fill his belly once againe, and thereupon taking courage upon him, he made his addreſſe, and ſpake to the blind Beggar man, by way of complement, knowing that the blind man could not ſée what manner of perſon he was, and ſo taking hold of him by the ſhoulder, began to expreſſe his mind in this manner: Well overtaken Father, how far walk you this way, marry, quoth the Beggar, but to
+<pb n="19" facs="tcp:64003:10"/>
+the next Village, and for want of a Guide to leade me, I am in feare that I ſhall come too late to my lodging; why quoth the Cobler, ra<g ref="char:EOLhyphen"/>ther then you ſhall doe amiſſe, I will take the paines to lead you my ſelfe, for I love old men with all my heart.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. Here followeth a diſcourſe of the happy fortune that happened to Robin the Cobler after all his miſeries.</head>
+               <figure>
+                  <figDesc>man with knife preparing to use it on Robin the Cobbler's privates; bird of prey in background</figDesc>
+               </figure>
+               <p>Whereupon the Cobler replyed, with a very good will Sir; which bargaine being made, <hi>Robin</hi> and his old Maſter would every day walke about to good mens houſes, to ſée what victuals they could get, till at the laſt, <hi>Robin</hi> became as cunning at the Trade as his Maſter, and was acquainted with moſt of the Maſter-Beggars that lived in the County of <hi>Kent.</hi>
+               </p>
+               <p>But to conclude, In proceſſe of time, the blind Beggar dyed, and then all his wealth fell to <hi>Robin,</hi> who afterwards went home to his former habitation, and tooke order for the brée<g ref="char:EOLhyphen"/>ding up of the thrée children that he got in one
+<pb n="22" facs="tcp:64003:12"/>
+night, and gave the two wenches ten pounds apiece for the injury that he had formerly done them, and threw the reſt of the money into his Wives lap, and ſo endeth the ſtory of <hi>Robin the Cobler.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:64003:12"/>
+            <p>
+               <figure>
+                  <figDesc>fox pursued by three dogs</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
